@@ -1,0 +1,18 @@
+body{
+    color: black;
+    background-color: rgb(64, 64, 148);
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#camera{
+    border: 2px solid red;
+    width: 400px;
+    height: 350px;
+}
+.objects{
+color: seashell;
+font-size: 20px;
+
+}
